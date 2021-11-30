@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joshboye
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... joshboye@porotonmail.com
+- 👀 I’m interested in ... pretty much anything related to web and app dev
+- 🌱 I’m currently learning ... react and kotlin
+- 💞️ I’m looking to collaborate on ... an intresting projects 
+- 📫 How to reach me ... joshboye8@gmail.com
 
 <!---
 joshboye/joshboye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
