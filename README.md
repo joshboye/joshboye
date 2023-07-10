@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshboye
+- 👋 Hi, I’m Joshua Sibi
 - 📫 How to reach me ... joshboye@proton.me
 
 <!---
